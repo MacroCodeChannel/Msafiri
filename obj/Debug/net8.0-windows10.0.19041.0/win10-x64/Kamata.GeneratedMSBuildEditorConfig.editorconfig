@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Kamata
+build_property.ProjectDir = D:\Software Projects\.NET Core Projects\Msafiri\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/Software Projects/.NET Core Projects/Msafiri/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/ActvivityPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.ActvivityPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ActvivityPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ActvivityPage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/MainLandingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.MainLandingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainLandingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainLandingPage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/MapPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.MapPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MapPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MapPage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/MyProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.MyProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MyProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MyProfilePage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/PriceView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.PriceView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PriceView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PriceView.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/RecentPlaceView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.RecentPlaceView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RecentPlaceView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RecentPlaceView.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/SearchContentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.SearchContentView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SearchContentView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SearchContentView.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/SearchHeaderView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.SearchHeaderView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SearchHeaderView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SearchHeaderView.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/ServicesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.ServicesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ServicesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ServicesPage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/SignupPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.SignupPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SignupPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SignupPage.xaml
+
+[D:/Software Projects/.NET Core Projects/Msafiri/Views/Testing.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kamata.Views.Testing.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Testing.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Testing.xaml

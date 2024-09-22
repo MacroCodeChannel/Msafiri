@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\viewmodels\\mainlandingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:viewmodels\\mainlandingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\mainlandingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\mainlandingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\mainlandingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\mainlandingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\recentplaceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\recentplaceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\servicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\servicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\searchheaderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\searchheaderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\priceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\priceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\searchcontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\searchcontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\actvivitypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\actvivitypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\myprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\myprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\mappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\mappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\kamata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:kamata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\testing.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\testing.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\testing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\testing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|d:\\software projects\\.net core projects\\msafiri\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2967C1-AC42-44EB-9971-A0332F836395}|Kamata.csproj|solutionrelative:viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLandingPageViewModel.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\ViewModels\\MainLandingPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainLandingPageViewModel.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\ViewModels\\MainLandingPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainLandingPageViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:05:55.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLandingPage.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MainLandingPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainLandingPage.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MainLandingPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainLandingPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:05:19.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchContentView.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SearchContentView.xaml",
+              "RelativeDocumentMoniker": "Views\\SearchContentView.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SearchContentView.xaml",
+              "RelativeToolTip": "Views\\SearchContentView.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T18:10:13.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchHeaderView.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SearchHeaderView.xaml",
+              "RelativeDocumentMoniker": "Views\\SearchHeaderView.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SearchHeaderView.xaml",
+              "RelativeToolTip": "Views\\SearchHeaderView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T18:10:12.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesPage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\ServicesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ServicesPage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\ServicesPage.xaml",
+              "RelativeToolTip": "Views\\ServicesPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T18:10:11.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "Views\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:05:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecentPlaceView.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\RecentPlaceView.xaml",
+              "RelativeDocumentMoniker": "Views\\RecentPlaceView.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\RecentPlaceView.xaml",
+              "RelativeToolTip": "Views\\RecentPlaceView.xaml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T18:10:17.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActvivityPage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\ActvivityPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ActvivityPage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\ActvivityPage.xaml",
+              "RelativeToolTip": "Views\\ActvivityPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T18:10:06.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PriceView.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\PriceView.xaml",
+              "RelativeDocumentMoniker": "Views\\PriceView.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\PriceView.xaml",
+              "RelativeToolTip": "Views\\PriceView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T18:09:35.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLandingPage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MainLandingPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainLandingPage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MainLandingPage.xaml",
+              "RelativeToolTip": "Views\\MainLandingPage.xaml",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAswPQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T13:59:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyProfilePage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MyProfilePage.xaml",
+              "RelativeDocumentMoniker": "Views\\MyProfilePage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MyProfilePage.xaml",
+              "RelativeToolTip": "Views\\MyProfilePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T18:09:38.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:54:40.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignupPage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SignupPage.xaml",
+              "RelativeDocumentMoniker": "Views\\SignupPage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SignupPage.xaml",
+              "RelativeToolTip": "Views\\SignupPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T11:49:58.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Testing.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\Testing.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Testing.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\Testing.xaml.cs",
+              "RelativeToolTip": "Views\\Testing.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:49:43.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Testing.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\Testing.xaml",
+              "RelativeDocumentMoniker": "Views\\Testing.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\Testing.xaml",
+              "RelativeToolTip": "Views\\Testing.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T11:48:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\HomePage.xaml",
+              "RelativeToolTip": "Views\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T12:03:12.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:55:00.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kamata.csproj",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Kamata.csproj",
+              "RelativeDocumentMoniker": "Kamata.csproj",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Kamata.csproj",
+              "RelativeToolTip": "Kamata.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T11:45:14.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapPage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MapPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MapPage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\MapPage.xaml",
+              "RelativeToolTip": "Views\\MapPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T13:59:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:58:19.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T12:28:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T11:45:30.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:43:22.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:06:20.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignupPage.xaml.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SignupPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SignupPage.xaml.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\Views\\SignupPage.xaml.cs",
+              "RelativeToolTip": "Views\\SignupPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:50:18.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T11:45:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wBgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:43:34.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\Software Projects\\.NET Core Projects\\Msafiri\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T11:43:27.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

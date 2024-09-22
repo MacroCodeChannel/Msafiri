@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kamata</name>
+    </assembly>
+    <members>
+        <member name="P:Kamata.ViewModels.BaseViewModel.IsNotBusy">
+            <summary>
+            Gets or sets a value indicating whether this instance is not busy.
+            </summary>
+            <value><c>true</c> if this instance is not busy; otherwise, <c>false</c>.</value>
+        </member>
+    </members>
+</doc>

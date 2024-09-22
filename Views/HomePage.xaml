@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:maps="clr-namespace:Microsoft.Maui.Controls.Maps;assembly=Microsoft.Maui.Controls.Maps"
+             x:Class="Kamata.Views.HomePage"
+             xmlns:helpers="clr-namespace:Kamata.Helpers"
+             xmlns:local="clr-namespace:Kamata.Views"
+             Shell.NavBarIsVisible="False"
+             Title="Home">
+    <ScrollView>
+        <VerticalStackLayout>
+            <Grid RowSpacing="0"
+        x:Name="layout"
+        VerticalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0"
+               Grid.RowSpan="2"
+               ColumnSpacing="0"
+               RowSpacing="0"
+              RowDefinitions="*, Auto">
+                    <maps:Map x:Name="map" 
+                              Grid.Row="0" 
+                              HeightRequest="250"></maps:Map>
+                    <local:RecentPlaceView  
+               Grid.Row="1"
+                  IsVisible="True">
+                        <local:RecentPlaceView.Triggers>
+                            <DataTrigger TargetType="local:RecentPlaceView">
+                                <Setter Property="IsVisible" Value="True"/>
+                            </DataTrigger>
+                        </local:RecentPlaceView.Triggers>
+                    </local:RecentPlaceView>
+                </Grid>
+            </Grid>
+            <StackLayout Margin="20,15">
+                <!-- Suggestions and See all -->
+                <Grid Margin="0,0,0,10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="Suggestions" 
+               FontSize="16" 
+               FontAttributes="Bold"
+               VerticalOptions="Center"/>
+
+                    <Label Text="See all" 
+               FontSize="14" 
+               TextColor="Blue"
+               Grid.Column="1"
+               VerticalOptions="Center"/>
+                </Grid>
+
+                <!-- Tiles for Ride, Package, Store Pickup, Reserve -->
+                <Grid ColumnSpacing="15" RowSpacing="15">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Ride -->
+                    <StackLayout Grid.Column="0" Grid.Row="0">
+                        <Image Source="ride.png" HeightRequest="40" WidthRequest="40" HorizontalOptions="Center"/>
+                        <Label Text="Ride" HorizontalOptions="Center" Margin="0,5,0,0"/>
+                    </StackLayout>
+
+                    <!-- Package -->
+                    <StackLayout Grid.Column="1" Grid.Row="0">
+                        <Image Source="storepackage.png" HeightRequest="40" WidthRequest="40" HorizontalOptions="Center"/>
+                        <Label Text="Package" HorizontalOptions="Center" Margin="0,5,0,0"/>
+                    </StackLayout>
+
+                    <!-- Store Pickup -->
+                    <StackLayout Grid.Column="2" Grid.Row="0">
+                        <Image Source="delivery.png" HeightRequest="40" WidthRequest="40" HorizontalOptions="Center"/>
+                        <Label Text="Store Pickup" HorizontalOptions="Center" Margin="0,5,0,0"/>
+                    </StackLayout>
+
+                    <!-- Reserve -->
+                    <StackLayout Grid.Column="3" Grid.Row="0">
+                        <Image Source="reserve.png" HeightRequest="40" WidthRequest="40" HorizontalOptions="Center"/>
+                        <Label Text="Reserve" HorizontalOptions="Center" Margin="0,5,0,0"/>
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

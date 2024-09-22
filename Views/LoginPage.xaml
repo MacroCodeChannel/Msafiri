@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              x:Class="Kamata.Views.LoginPage"
+             BackgroundColor="#00ba51">
+
+    <VerticalStackLayout Spacing="25" Padding="30">
+        <!-- App Logo or Header -->
+        <Image Source="logo.png" HeightRequest="180" HorizontalOptions="Center" />
+
+        <!-- Welcome Message -->
+        <Label Text="Do everything with Kamata"
+               FontSize="18"
+               HorizontalOptions="Center" />
+        <StackLayout
+            Padding="0,150,0,0">
+            <!-- Login Buttons with Icons -->
+            <Button BackgroundColor="White"
+                TextColor="Black"
+                Text="Continue with Facebook" 
+                VerticalOptions="Center"
+                CornerRadius="5"
+                Margin="0,10">
+            </Button>
+
+            <Button BackgroundColor="White" 
+                Text="Continue with Google"
+                VerticalOptions="Center" 
+                TextColor="Black"
+                CornerRadius="5" Margin="0,10">
+            </Button>
+            <Border Padding="1" BackgroundColor="White"></Border>
+            <StackLayout Padding="0,40,0,0" >
+                <Button BackgroundColor="White"
+                Text="Continue with Mobile Phone Number" 
+                TextColor="Black" 
+                CornerRadius="5" 
+                Margin="0,10"></Button>
+            </StackLayout>
+
+            <!-- Additional Text or Links -->
+            <Label Text="By continuing, you agree to our Terms of Service and Privacy Policy."
+               FontSize="12"
+               HorizontalOptions="Center"
+               TextColor="White" />
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>
